@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Искусственный интеллект
+  - Кибербезопасность
+  - Видеоигры
+  - Музыка
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю компьютерные науки, интересуюсь разработкой программного обеспечения и кибербезопасностью.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Получаю знания в области программирования, системного администрирования и защиты данных.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,38 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Использую для разработки программ и работы с данными
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: C++
+        description: Программирование на C++ для разработки алгоритмов
+        percent: 60
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Кибербезопасность
+        description: Основы защиты данных и сетей
+        percent: 50
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Видеоигры
+        description: Увлекаюсь стратегиями и ролевыми играми
         percent: 80
+      - name: Музыка
+        description: Играю на гитаре в свободное время
+        percent: 70
+      - name: Программирование
+        description: Люблю разрабатывать свои проекты
+        percent: 90
 
 languages:
   - name: Русский
-    percent: 100
+    percent: 75
   - name: Английский
-    percent: 60
+    percent: 65
+  - name: Арабский
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
